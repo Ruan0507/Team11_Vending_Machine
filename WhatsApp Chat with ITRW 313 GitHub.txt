@@ -1,0 +1,143 @@
+2018/04/10, 07:32 - Messages to this group are now secured with end-to-end encryption. Tap for more info.
+2018/04/10, 07:32 - Anjana created group "ITRW 313 GitHub"
+2018/04/10, 07:32 - Anjana added you
+2018/04/10, 07:34 - Anjana: Good morning everyone. Hope all of you are well. Apologies for the delay in creating the WhatsApp group, one of our group members were supposed to get back to me but they didn't. Since time is of the essence, I think it'd be best if we continue without him/her for now.
+
+If someone knows MM Skosana and has their numbers, please send it to me. Thanks.
+2018/04/10, 07:36 - Anjana: We will discuss all details regarding the assignment shortly.
+2018/04/10, 09:11 - ‪+27 79 900 4282‬: Alright
+2018/04/11, 19:22 - Anjana: Hello everyone. Hope you are all still well.
+Our program is fully working, thanks to Ruan Small. The only thing left now is the documentation.
+
+The documentation consists of the *problem statement*, *diagrams*, the *planning documents* and the *end-user documentation*. After we are done, we need to upload it to the GitHub repository, but I will ensure that it's done.
+
+Since there are 4 parts to the documentation, I think we should work in pairs so we can speed up the process.
+
+I am going to create the documentation on Google Docs. Can I please have all of your email addresses here so I can share the document with you.
+2018/04/11, 19:24 - ‪+27 72 517 0710‬: Really
+2018/04/11, 19:26 - ‪+27 83 925 2505‬: smith.dlamini@gmail.com
+2018/04/11, 19:26 - ‪+27 72 517 0710‬: Do mind sending the program
+2018/04/11, 19:26 - ‪+27 72 517 0710‬: Do you*
+2018/04/11, 19:27 - ‪+27 83 925 2505‬: Yes please
+2018/04/11, 19:27 - ‪+27 72 517 0710‬: So we can start now with the documentation
+2018/04/11, 19:29 - ‪+27 79 900 4282‬: xolilesibiya1993@gmail.com
+2018/04/11, 19:31 - ‪+27 72 517 0710‬: Sibuthathato@gmail.com
+2018/04/11, 19:31 - Jaco Sittig: jaco.sittig@gmail.com
+2018/04/11, 19:35 - Ruan Small: small.ruan@gmail.com
+
+Here is the link to github with the program:
+2018/04/11, 19:35 - Ruan Small: https://github.com/Ruan0507/Team11_Vending_Machine
+2018/04/11, 19:40 - ‪+27 72 517 0710‬: Ayt thanks hommie
+2018/04/11, 20:47 - Anjana: Thank you for your emails. I don't have data right now but I will be on campus at 8am tomorrow so I'll share the document then.
+2018/04/11, 20:50 - Ruan Small: Np budz😋
+2018/04/11, 21:06 - ‪+27 79 900 4282‬: 👍🏽
+2018/04/11, 21:55 - ‪+27 84 722 4849‬: chickott@gmail.com
+
+Sorry I'm late, jus saw this now..
+2018/04/11, 22:02 - Anjana: No worries😉
+2018/04/12, 09:16 - Anjana: Good morning. I have shared the document with all of you. Please ensure that you have received the email with the shared document.
+2018/04/12, 09:19 - ‪+27 76 162 9051‬: Just did
+2018/04/12, 09:20 - Jaco Sittig: Received the mail and the document 👍🏻
+2018/04/12, 10:57 - Anjana: This message was deleted
+2018/04/12, 11:00 - Anjana: Just a quick guideline about the documentation:
+
+Problem statement: describe the purpose of this program, what it aims to solve, etc.
+
+Diagram: A finite state machine diagram that indicates how the system works, etc.
+
+Planning document: A document that shows how we co-ordinated and worked together as a group to complete this project, how the tasks were allocated, etc. So this is focused more on our strategy to complete this task, rather than on the task itself.
+
+End-user documentation: A step-by-step guide for users that explains how to use the program, what to do, how to execute it, etc, etc.
+
+I hope this is helpful.
+2018/04/12, 11:02 - ‪+27 79 900 4282‬: So who is doing which part?
+2018/04/12, 11:04 - Anjana: Please have a look at the documentation, it is indicated there under each heading.. As I stated in the email, I randomly assigned people to tasks so we don't waste time on deciding who does what, but we can help each other
+2018/04/12, 11:05 - ‪+27 79 900 4282‬: Oh alright. I don't have data, I'll look at it when I get to campus
+2018/04/12, 11:05 - Anjana: No worries😅
+2018/04/12, 11:13 - ‪+27 72 517 0710‬: So like do make up our own problem
+2018/04/12, 11:13 - ‪+27 72 517 0710‬: Statement
+2018/04/12, 11:39 - Anjana: Yeah, basically.. Have a look at the program and see what it does so you can get an idea of its purpose
+2018/04/12, 13:26 - ‪+27 72 517 0710‬: So is the meeting in progreaa
+2018/04/12, 13:30 - ‪+27 79 900 4282‬: What meeting?
+2018/04/13, 13:26 - Anjana added ‪+27 71 272 9761‬
+2018/04/17, 09:23 - ‪+27 79 900 4282‬: How do we access the program?
+2018/04/17, 09:44 - Ruan Small: Sorry what do you mean exactly? If you click on the .clp file it should open n text editor. Or you can download it I believe.
+2018/04/17, 09:44 - Ruan Small: Here is the link to the program and github repository: 
+https://github.com/Ruan0507/Team11_Vending_Machine
+2018/04/17, 09:45 - ‪+27 79 900 4282‬: Thank you. My phone cleared all my texts
+2018/04/17, 09:49 - Ruan Small: Oh haha its fine...
+2018/04/17, 14:05 - ‪+27 79 900 4282‬: But only one person contributed to the code. So how are the rest going to get marks?
+2018/04/17, 14:06 - Ruan Small: Well after todays change in the assignment... you van change the code to fullfull the new requirements... otherwise we will have toe create a new repository and devide the code between everyone and let each one of us commit a part of it.
+2018/04/17, 14:08 - ‪+27 79 900 4282‬: So we have to add what he said we should add today in class?
+2018/04/17, 14:12 - Ruan Small: Yes... or otherwise we will just make a new repository and allocate a piece of code to each member. 
+
+For today I am just going to finish stuDYING for Databases and will try to figure out rest of code between wednesday and thursday. We can then decide how we are going to handle this. I think he said he is going to extend the assignment to the 20th as requested by Michael. So we have time untill friday atleast.
+2018/04/17, 14:13 - Ruan Small: Adding what he mentioned today shouldnt be too much of a hassle atleast.... or I hope.
+2018/04/17, 14:13 - Jaco Sittig: We already have a repository we can just use that
+2018/04/17, 14:13 - Jaco Sittig: No need to make a new one
+2018/04/17, 14:14 - Jaco Sittig: Just get everyone's github name and add them as contributers 😀👍🏻
+2018/04/17, 14:16 - ‪+27 79 900 4282‬: So then we can allocate a piece of code to each member. Then we'll add the part that he requested us to add later because we have to study for databases and OS
+2018/04/17, 14:21 - Ruan Small: Okay kwl. Just know, I do not know much about github so any recommendations would be appreciated😋
+2018/04/17, 14:22 - ‪+27 79 900 4282‬: We are all on the same boat😅. We'll all figure out together
+2018/04/17, 14:22 - Ruan Small: 👍🏻
+2018/04/19, 19:27 - Anjana: Hi guys we should just submit the link before midnight.. The rest is all due later in the year..
+
+Can someone that has internet please submit the link
+2018/04/19, 19:30 - ‪+27 84 722 4849‬: How do I submit it? Paste it under the text area?
+2018/04/19, 19:31 - Anjana: Yes. Thank you
+2018/04/19, 19:32 - ‪+27 84 722 4849‬: 👍
+2018/04/19, 19:34 - ‪+27 79 900 4282‬: So the documentation is not due tomorrow?
+2018/04/19, 19:35 - Anjana: Apparently not🤷‍♀
+2018/05/14, 11:07 - Jaco Sittig: Good morning everyone 
+
+So I see the assignment must be finalized tomorrow 🙈🙈 
+
+If you go to efundi and to the ITRW 313 forum, please go and add your github *username* to the Team 11 Progress conversation 
+
+We need to communicate more on the forum as this also counts marks  
+
+I would also like to know, who wants to do programming, because the adjustments must still be made on the program 
+
+Does everyone want to do documentation or do you feel like the people that did not program must do documentation? Please share your thoughts on this matter
+2018/05/14, 11:25 - ‪+27 79 900 4282‬: But isn't it we all have to contribute to the program?
+2018/05/14, 11:49 - Jaco Sittig: Don't know, did not see that we all must do the program 🤷🏼‍♂
+2018/05/14, 11:57 - ‪+27 79 900 4282‬: I remember him saying so in class. Each member has to contribute to the coding
+2018/05/14, 12:02 - Jaco Sittig: Ok so you are coding, I think there is just some small things to add, please check the announcement he posted a while back 
+
+If you can also be so kind, email the lecture to check if everyone must code because I know other groups split the work between coders and documentation 🤷🏼‍♂
+2018/05/14, 12:03 - ‪+27 79 900 4282‬: Okay I'll just confirm with him if everyone must code
+2018/05/14, 12:04 - Jaco Sittig: Thank you
+2018/05/14, 12:04 - Anjana: Isn't it on 18th?
+2018/05/14, 12:05 - ‪+27 79 900 4282‬: On the schedule it says it's due tomorrow
+2018/05/14, 12:06 - Jaco Sittig: IMG-20180514-WA0007.jpg (file attached)
+2018/05/14, 12:06 - Ruan Small: I also initially thought it was for 18th...
+2018/05/14, 13:00 - Ruan Small: Please remember to post on the ITRW 313 forum, your *username* for github, at the Team 11 Progress conversation. 
+It is so that I can add all of you as contributors to the repository. You also receive individual marks for posts on efundi.
+2018/05/14, 20:03 - Ruan Small: Jaco have uploaded the document which was previously sent by Anjana onto github. At the end of that document is code I want each one of you to please commit to the program. Your piece of code to commit is underneath your name. If you cannot find the correct space to put the code in the program, just place it in where ever you think is correct. I will after everyone has committed their code, revise the program and fix it so it can work. This is only so that everyone contributed towards the program. After you have committed your code, please remove your part from the document (you will have to download it , change it , and then upload it again.)
+2018/05/14, 20:05 - Ruan Small: I am not sure how far everyone is with their parts of the documentation, so if you are done with it, please also add it to the document when you remove your part of code you committed.
+2018/05/14, 20:06 - Ruan Small: We have until tomorrow night 24:00 I believe to finish this, so can we try to have everything done by 22:00 so that I can ensure the code works
+2018/05/14, 22:03 - ‪+27 84 722 4849‬: Wait.. aren't we suppose to edit the document on Google docs? 🤔
+
+Coz I can't edit the documentation on Github, only the code.
+2018/05/14, 22:05 - Ruan Small: Wel if you are able to do it there then its fine👍🏻... just post on efundi when you have changed the code please
+2018/05/14, 22:05 - Ruan Small: I just want to know whem everyone is done with the code so that I can revise it😄
+2018/05/14, 22:55 - ‪+27 79 900 4282‬: I'll do mine tomorrow after writing
+2018/05/14, 22:55 - Ruan Small: Okay 👍🏻
+2018/05/15, 16:16 - ‪+27 79 900 4282‬: Uhmm... how do I add code to the program?
+2018/05/15, 16:18 - Jaco Sittig: Press on the clips code and then in the right corner press the little pencil, this will let you edit the text 
+
+When you are done please remeber to commit on the bottom of the page
+2018/05/15, 16:22 - ‪+27 79 900 4282‬: Do I commit by clicking on propose file change?
+
+That's what appears on the bottom of the page
+2018/05/15, 16:24 - Jaco Sittig: After you have pressed the pencil(edit) at the bottom it says 
+Commit changes with a green button
+2018/05/15, 16:29 - ‪+27 79 900 4282‬: Got it. Thank you
+2018/05/15, 17:54 - Ruan Small: Please be sure to commit the changes to the repository on the link that I sent. If you make changes on the one you forked, it will not show at the original one. Please ensure to be done submitting your github work by 9 pm tonight.
+2018/05/15, 18:05 - Anjana: Did he mention anything about the date or time of submission for this gitHub thing, in class?
+2018/05/15, 18:09 - Ruan Small: No he didn't say anything officially in class, but it is on the schedule and I also talked to him yesterday and he wasn't even sure self, and said it was what he placed on the schedule.
+2018/05/15, 18:10 - Ruan Small: If you have a internet issue, you may post the code you have to add here on whatsapp, as I will upload the chat log onto github as he requested. This will be proof if you worked on code as well, if you have trouble commiting.
+2018/05/15, 18:13 - Anjana: He asked for that? 😂
+2018/05/15, 18:20 - Ruan Small: Well I initially asked him if not everyone can commit their code, will they lose marks, and he said if we have proof of them working on code , it will be fine. So he gave the proposal of sending our whatsapp log. I know Michael Buchler also uploaded their whatsapp log
+2018/05/15, 18:26 - Anjana: Ohkay
+2018/05/15, 20:47 - Ruan Small: You guys should please try to commit to the master branch... in other words... the original repository. When you fork the repository, you create an instance of it on your own account and all the changes you make there , will not show at the original one
