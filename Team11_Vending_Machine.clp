@@ -44,7 +44,8 @@
 (defrule title ""
 	(declare (salience 10))
 	=>
-	(println crlf "Soft Drink Vending Machine - Costs 55c" crlf))
+	(println crlf "Soft Drink Vending Machine" crlf))
+
 	
 ;;;################
 ;;;  Query Rules
@@ -52,17 +53,12 @@
 
 (defrule ask-for-coin
 	?f1 <- (current-value (value ?x))
-	(required-value (value ?y))
-	(test (< ?x ?y))
+	(test (< ?x 55))
 	=>
-	(bind ?sum (+ ?x (ask-question "Enter amount (R5, R2, R1, c50, c20 OR c10) :" R5 R2 R1 5 2 1 c50 c20 c10 50 20 10)) )
+	(bind ?sum (+ ?x (ask-question "Enter amount (quarter/nickel/25/5) :" quarter nickel 5 25 q n)) )
 	(modify  ?f1 (value ?sum))
-	(print crlf "=============================================================" crlf)
-	(format t "The amount required is : R%5.2f%s%n" ?y "c ")
-	(format t "The current amount is : R%5.2f%s%n" ?sum "c ")
-	(println "=============================================================" crlf)
+	(println crlf "The current amount is : " ?sum "c " crlf)
 )
-
 
 (defrule ask-item
 	?f2 <- (required-value (value ?x))
