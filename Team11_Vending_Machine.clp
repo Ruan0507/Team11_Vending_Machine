@@ -80,6 +80,14 @@
 ;;;  Check Rules
 ;;;################	
 
+(defrule checkA-money_counter 
+	(current-value (value ?x))
+	(required-value (value ?y))
+	(test (eq ?x ?y ) )
+=>	
+	(println crlf "You have just enough money to buy a soft drink!!" crlf)
+
+
 (defrule checkB-money_counter 
 	(current-value (value ?x))
 	(required-value (value ?y))
