@@ -86,14 +86,14 @@
 	(test (eq ?x ?y ) )
 =>	
 	(println crlf "You have just enough money to buy a soft drink!!" crlf)
-
-
+	
 (defrule checkB-money_counter 
 	(current-value (value ?x))
 	(required-value (value ?y))
-	(test (> ?x ?y) )
+	(test (> ?x ?y ) )
 =>	
-	(println crlf "You have enough money to buy a soft drink!!" crlf)
-)	
+	(bind ?change (- ?x ?y))
+	(format t "You have enough money to buy a soft drink, with a change of: R%5.2f%s%n" ?change " c")
+)
 
    
