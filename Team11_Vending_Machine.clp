@@ -4,6 +4,8 @@
 
 (deftemplate current-value
 	(slot value))
+(deftemplate required-value
+	(slot value))
 	
 ;;;#########################
 ;;;  Function for asking
@@ -32,7 +34,8 @@
 
 ; Fact to maintain the global state of the FSM
 (deffacts vending
-   (current-value (value 0)))
+   (current-value (value 0))
+   (required-value (value 0)))
    
 ;;;####################
 ;;;	     STARTUP
@@ -79,7 +82,8 @@
 
 (defrule checkB-money_counter 
 	(current-value (value ?x))
-	(test (>= ?x 55 ) )
+	(required-value (value ?y))
+	(test (> ?x ?y) )
 =>	
 	(println crlf "You have enough money to buy a soft drink!!" crlf)
 )	
