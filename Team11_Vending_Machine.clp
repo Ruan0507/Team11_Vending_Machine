@@ -17,16 +17,14 @@
    (if (lexemep ?answer) 
        then (if (or (eq ?answer nickel) (eq ?answer Nickel))
 			then (bind ?answer 5)))
-   (if (lexemep ?answer) 
-       then (if (or (eq ?answer quarter) (eq ?answer Quarter))
-			then (bind ?answer 25)))
-   (while (not (member$ ?answer ?allowed-values)) do
+  (if (or (eq ?response c10) (eq ?response 10))
+		then (bind ?answer 0.10))
+   (while (not (member$ ?response ?allowed-values)) do
 	  (println crlf "'" ?answer "' is not allowed. Please try again:" crlf)
       (print ?question)
-      (bind ?answer (read))
-      (if (lexemep ?answer) 
-          then (bind ?answer (lowcase ?answer))))
+      (bind ?answer (read)))
    ?answer)
+
 	
 ;;;################
 ;;;    Deffacts
